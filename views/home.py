@@ -6,7 +6,6 @@ st.title("Meine erste Streamlit App")
 
 """
 Diese App wurde von folgenden Personen entwickelt:
-- Michelle Assadi (assadmic@students.zhaw.ch)
 - Jessica Itulah (itulajes@students.zhaw.ch)
 - Medhani Kathirkamanathan (kathimed@students.zhaw.ch)
 
